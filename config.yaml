@@ -1,8 +1,8 @@
 minecraft:
   serverIP: play.pika-network.net
   serverPort: 25565
-  joinCommand: /server opfactions
-  version: 1.8.9
+  joinCommand: /server factions
+  version: 1.19.2
 
 discord: # Webhook links, tutorial: https://www.youtube.com/watch?v=fKksxz2Gdnc&ab_channel=NoIntroTutorials
   botLogs:
@@ -12,7 +12,7 @@ discord: # Webhook links, tutorial: https://www.youtube.com/watch?v=fKksxz2Gdnc&
   ftop:
   flist:
 
-  webhookUrl: https://cdn.discordapp.com/attachments/801944189830692864/815993687041507348/pack.png # Avatar of your Webhook
+  webhookUrl: https://discord.com/api/webhooks/1232532210867769374/JBpDQsqqL89WugmHE8CqSbISMrh7LwUZGF06TLpxLq5twChhXcjoB6uJ9UnXvV1nQx8Y # Avatar of your Webhook
   webhookColor: 8f04d4 # Needs to be a HEX color code without the "#" 
 
 
